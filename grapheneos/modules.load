@@ -63,8 +63,6 @@ extra/private/google-modules/soc/gs/drivers/soc/google/pt/slc_pmon.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gsa/gsa.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gsa/gsa_gsc.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/exynos-bcm_dbg-dump.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/gnssif_spi/gnss_spi.ko
-extra/private/google-modules/soc/gs/drivers/soc/google/gnssif_spi/gnssif.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/eh/eh.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/gcma/gcma.ko
 extra/private/google-modules/soc/gs/drivers/soc/google/hardlockup-debug.ko
@@ -202,9 +200,6 @@ extra/private/google-modules/trusty/drivers/trusty/trusty-ipc.ko
 extra/private/google-modules/video/gchips/bigwave.ko
 extra/private/google-modules/display/common/panels/panel-gs-simple.ko
 extra/private/google-modules/display/panels/stallion/panel-gs-staea.ko
-extra/private/google-modules/gps/broadcom/bcm47765/bcm47765.ko
-extra/private/google-modules/nfc/st21nfc.ko
-extra/private/google-modules/nfc/ese/st54spi.ko
 extra/private/google-modules/radio/samsung/s5400/shm_ipc.ko
 extra/private/google-modules/radio/samsung/s5400/cpif_page.ko
 extra/private/google-modules/radio/samsung/s5400/cpif.ko

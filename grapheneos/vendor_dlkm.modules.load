@@ -46,9 +46,6 @@ extra/private/google-modules/amplifiers/cs40l26/cs40l26-core.ko
 extra/private/google-modules/amplifiers/cs40l26/cs40l26-i2c.ko
 extra/private/google-modules/amplifiers/cs40l26/snd-soc-cs40l26.ko
 extra/private/google-modules/amplifiers/tas25xx/snd-soc-tas25xx.ko
-extra/private/google-modules/bluetooth/broadcom/nitrous.ko
-extra/private/google-modules/gps/broadcom/bcm47765/bbd_pps_gpio.ko
-extra/private/google-modules/nfc/ese/st33spi.ko
 extra/private/google-modules/radio/samsung/s5400/cp_thermal_zone.ko
 extra/private/google-modules/touch/common/heatmap.ko
 extra/private/google-modules/touch/common/goog_touch_interface.ko

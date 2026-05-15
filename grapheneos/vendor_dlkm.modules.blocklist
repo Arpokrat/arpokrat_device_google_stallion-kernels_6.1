@@ -10,3 +10,16 @@ blocklist pwm_exynos
 blocklist rt4539_bl
 blocklist sts4x_ambient_i2c
 blocklist focal_touch.ko
+blocklist bcm47765
+blocklist bluetooth
+blocklist nfc
+blocklist st21nfc
+blocklist st2lnfc
+blocklist hci_uart
+blocklist btsdio
+blocklist btbcm
+blocklist btqca
+blocklist rfcomm
+blocklist hidp
+blocklist gnssif
+blocklist gnss_spi
